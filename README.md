@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Achal Chaudhary]  
+# Hi there! 👋 I'm Achal Chaudhary  
 
 ### 🚀 Passionate JavaScript Engineer | Simplifying Software Development  
 
@@ -15,20 +15,20 @@ I love building **efficient, reusable, and scalable solutions** that remove unne
 
 ## 📌 Featured Repositories  
 🔹 https://github.com/zerowithzero/node-api-vercel  
-🔹 https://github.com/zerowithzero/secure-2fa-auth-api-nodejs
+🔹 https://github.com/zerowithzero/secure-2fa-auth-api-nodejs 
 🔹 https://github.com/zerowithzero/wiseShort
 
 Check out all my repositories [**here**](https://github.com/zerowithzero).  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerowithzero&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerowithzero&layout=compact&theme=radical)
 
 ---
 
-![Followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Stars](https://img.shields.io/github/stars/yourusername?style=social)
+![Followers](https://img.shields.io/github/followers/zerowithzero?style=social)
+![Stars](https://img.shields.io/github/stars/zerowithzero?style=social)
 
 ---
 
