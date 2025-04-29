@@ -7,9 +7,9 @@ I love building **efficient, reusable, and scalable solutions** that remove unne
 ---
 
 ## 🔧 Technologies & Tools  
-- **Frontend:** React.js, Next.js, Tailwind CSS, MUI & much more!  
-- **Backend:** Node.js, Express.js, TypeORM, PostgreSQL & much more!
-- **Other:** Firebase, OpenAPI, Swagger, Git, REST APIs & much more!
+- **Frontend:** React.js, Next.js, Tailwind CSS, MUI & required ones. 
+- **Backend:** Node.js, Express.js, TypeORM, PostgreSQL & required ones.
+- **Other:** Firebase, OpenAPI, Swagger, Git, REST APIs & required ones.
 
 ---
 
